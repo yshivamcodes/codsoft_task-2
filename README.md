@@ -71,12 +71,6 @@ Cross-validation Accuracy: ~82.7%
 ### Test Set Evaluation:
 Accuracy: 82.7%
 
-### Classification Report:
-precision    recall  f1-score   support
-     0       0.84      0.88      0.86       110
-     1       0.80      0.74      0.77        69
-accuracy                           0.83       179
-
 ### Confusion Matrix:
 
 [[97 13]
